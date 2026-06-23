@@ -41,3 +41,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=120&section=footer" />
 </p>
+## Contact
+
+- 📱 9227106568
+- ✉️ jehandevani101@gmail.com
+- 
