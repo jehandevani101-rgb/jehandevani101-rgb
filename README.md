@@ -1,7 +1,7 @@
 # Hi there, I'm jehan Name 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub+profile;Developer+%7C+Designer+%7C+Learner;Building+cool+projects+every+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Developer+%7C+Designer+%7C+Learner;Building+cool+projects+every+day" alt="Typing SVG" />
 </p>
 
 ## About Me
